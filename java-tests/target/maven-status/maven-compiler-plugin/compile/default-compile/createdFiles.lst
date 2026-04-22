@@ -1,0 +1,11 @@
+pages/CartPage.class
+pages/OrderReviewPage.class
+pages/CheckoutPage.class
+pages/SearchResultsPage.class
+pages/ShippingAddressPage.class
+pages/HomePage.class
+pages/BasePage.class
+pages/ProductDetailPage.class
+pages/OrderConfirmationPage.class
+pages/BasePage$1.class
+pages/PaymentMethodPage.class

@@ -1,0 +1,16 @@
+{
+  "servers": {
+    "appium-mcp": {
+     // "timeout": 100,
+      "type": "stdio",
+      "command": "npx",
+      "args": [
+        "appium-mcp@latest"
+      ],
+      "env": {
+        "ANDROID_HOME": "/Users/anandedulakanti/Library/Android/sdk",
+        "CAPABILITIES_CONFIG": "/Users/anandedulakanti/Appium-Mcp-Server/capabilities.json"
+      }
+    }
+  }
+}

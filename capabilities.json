@@ -1,0 +1,9 @@
+{ "android" :{
+  "platformName": "Android",
+  "appium:platformVersion": "16.0",
+  "appium:deviceName": "Pixel 10 Pro XL",
+  "appium:appPackage": "com.google.android.calculator",
+  "appium:appActivity": "com.android.calculator2.Calculator",
+  "appium:automationName": "UiAutomator2"
+}
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-current.dtd">
+<suite name="Amazon Mobile Test Suite" parallel="false">
+    <test name="Amazon Order Flow Tests">
+        <classes>
+            <class name="tests.AmazonOrderFlowTest"/>
+        </classes>
+    </test>
+</suite>
